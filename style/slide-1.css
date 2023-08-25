@@ -1,0 +1,48 @@
+.slide-1 {
+  margin-top: 63px;
+}
+
+.content-label-1 {
+  width: 1920px;
+  height: 186px;
+  background-color: #EBD96B;
+}
+
+
+
+.label {
+  padding-top: 70px;
+  padding-left: 171px;
+  padding-right: 171px;
+}
+
+.label img {
+  padding-left: 63px;
+}
+
+
+.content-slide-1 {
+  margin-top: 61px;
+  margin-left: 104px;
+}
+
+.content-slide-1 p {
+  color: #000;
+  font-family: 'Poppins', sans-serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 50px;
+  letter-spacing: 2.88px;
+  position: relative;
+  z-index: 200;
+}
+
+.content-slide-1 img {
+  position: relative;
+  z-index: 100;
+  width: 186px;
+  height: 34.935px;
+  bottom:30px;
+  left:260px;
+}
