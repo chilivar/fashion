@@ -4,7 +4,6 @@
 }
 
 
-
 .card-box {
   display: grid;
   grid-template-columns: 400px 400px 400px;
@@ -39,7 +38,14 @@
 }
 
 .card {
-  width: 400px;
+  width: 450px;
+}
+
+.card:hover{
+  
+  border-radius: 10px;
+  background-color: #f6e4ff;
+  transition: 0.2s;
 }
 
 .img-arrow{
@@ -48,3 +54,11 @@
   padding-left: 60px;
 }
 
+.content-card{
+  width: 400px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  
+}
