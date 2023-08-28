@@ -1,0 +1,50 @@
+.img-girl {
+  width: 400px;
+  height: 600px;
+}
+
+
+
+.card-box {
+  display: grid;
+  grid-template-columns: 400px 400px 400px;
+  gap: 90px;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+
+.text-under {
+  display: grid;
+  grid-template-columns: 300px 32px;
+}
+
+.clothing-name {
+  color: #191919;
+  font-family: 'Poppins', sans-serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 50px;
+  letter-spacing: -1.28px;
+}
+
+.text-explore {
+  color: #7F7F7F;
+  font-family: 'Poppins' sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 50px;
+  letter-spacing: -0.96px;
+}
+
+.card {
+  width: 400px;
+}
+
+.img-arrow{
+  width:32px;
+  padding-top: 20px;
+  padding-left: 60px;
+}
+

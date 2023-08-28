@@ -60,7 +60,9 @@
 }
 
 .button-header:hover {
-    background-color: #393E46;
+    background: #CDD6DB;
+    color: #2E2E2E;
+    transition:1s;
     
 }
 
