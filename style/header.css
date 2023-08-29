@@ -43,8 +43,6 @@
 
 .nav-list {
     display: flex;
-    /* flex-wrap: wrap;
-    justify-content: space-between; */
     list-style-type: none;
     margin-left: 150px;
 }
@@ -84,4 +82,5 @@
     border-bottom: 2px #2E2E2E solid;
     padding-bottom: 3px;
 }
+
 

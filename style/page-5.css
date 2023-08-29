@@ -58,3 +58,7 @@
   width: 834px;
   height: 575px;
 }
+
+.card-list a{
+  text-decoration: none;
+}
