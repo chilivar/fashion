@@ -1,0 +1,60 @@
+.container-5 {
+  margin-top: 190px;
+  color: #000;
+  font-family: 'Poppins', sans-serif;
+}
+
+.name-page {
+  margin-left: 100px;
+
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 50px;
+  letter-spacing: 2.88px;
+}
+
+.card-list {
+  margin-left: 100px;
+  margin-top:108px;
+  list-style: none;
+  display: grid;
+  grid-template-columns: 834px 834px;
+  gap: 48px;
+}
+
+.text-5 {
+  margin-top: 28px;
+  display: grid;
+  grid-template-columns: 300px 10px;
+  gap: 490px;
+}
+
+.text-5 img {
+  margin-top: 40px;
+}
+
+.explore-5 {
+  margin-top: 4px;
+  color: #7F7F7F;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 50px;
+  letter-spacing: -0.96px;
+}
+
+.name-card-5 {
+  color: #000;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 50px;
+  letter-spacing: -1.28px;
+}
+
+
+.img-card {
+  width: 834px;
+  height: 575px;
+}
