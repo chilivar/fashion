@@ -100,6 +100,13 @@ input[type=email]:focus {
   transition: 1s;
 }
 
+.button-input-area:active {
+  background: #393E46;
+  transition: 1s;
+}
+
+
+
 .button-input-area a {
   text-decoration: none;
 }

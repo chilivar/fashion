@@ -4,6 +4,7 @@
   display: grid;
   grid-template-columns: 800px 800px;
   font-family: 'Popins', sans-serif;
+  width: 100%;
 }
 
 
