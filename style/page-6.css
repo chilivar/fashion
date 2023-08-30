@@ -1,0 +1,37 @@
+.container-6 {
+  padding: 0;
+  margin-top: 100px;
+  display: grid;
+  font-family: 'Popins', sans-serif;
+}
+
+
+.text-6{
+  margin-top: 250px;
+  margin-left: 219px;
+}
+
+.main-text-6 {
+  color: #000;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 150%;
+  letter-spacing: 2.88px;
+  
+}
+
+.under-text-6 {
+  margin-top: 41px;
+  color: #7C7C7C;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 35px;
+  letter-spacing: -0.96px;
+}
+
+
+.link-market{
+  margin-top: 65px;
+}
