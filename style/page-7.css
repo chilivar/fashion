@@ -94,19 +94,21 @@ input[type=email]:focus {
   padding-top: 15px;
 }
 
-.button-input-area:hover {
-  background: #CDD6DB;
-  color: #2E2E2E;
-  transition: 1s;
-}
+
 
 .button-input-area:active {
   background: #393E46;
-  transition: 1s;
 }
 
 
 
 .button-input-area a {
   text-decoration: none;
+}
+
+.number{
+  color: black;
+  width: 50px;
+  height: 50px;
+  font-family: 'Popins', sans-serif;
 }
