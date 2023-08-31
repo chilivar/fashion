@@ -8,7 +8,7 @@
     display: grid;
     grid-template-columns: 238px 950px;
     gap: 642px;
-    width: 100%;
+    width: auto;
 }
 
 .link-logo {

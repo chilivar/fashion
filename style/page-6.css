@@ -4,7 +4,7 @@
   display: grid;
   grid-template-columns: 800px 800px;
   font-family: 'Popins', sans-serif;
-  width: 1920px;
+  width: auto;
 }
 
 
@@ -45,7 +45,7 @@
   width: 327px;
   height: 710px;
 
-  border-radius: 34.975px;
+  border-radius: 20px;
   border: 22.58px solid #C2C8DA;
   background: #FFF;
 }
