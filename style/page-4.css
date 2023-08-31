@@ -1,7 +1,7 @@
 .container {
   margin-top: 190px;
   display: grid;
-  grid-template-columns: 970px 970px;
+  grid-template-columns: 870px 870px;
   color: #000;
   font-family: 'Poppins', sans-serif;
   width: auto;
@@ -13,8 +13,8 @@
 }
 
 .img-4 {
-  width: 990px;
-  height: 970px;
+  width: 880px;
+  height: 870px;
 }
 
 .heading {

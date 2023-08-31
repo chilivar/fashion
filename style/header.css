@@ -2,13 +2,14 @@
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
+    width: auto;
 }
 
 .content-header {
     display: grid;
     grid-template-columns: 238px 950px;
     gap: 642px;
-    width: auto;
+    
 }
 
 .link-logo {
