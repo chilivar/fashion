@@ -1,7 +1,7 @@
 .container {
   margin-top: 190px;
   display: grid;
-  grid-template-columns: 870px 870px;
+  grid-template-columns: 870px 1fr;
   color: #000;
   font-family: 'Poppins', sans-serif;
   width: auto;
