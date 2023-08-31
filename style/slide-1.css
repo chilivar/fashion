@@ -1,4 +1,4 @@
-.slide-1 {
+.container-1 {
   margin-top: 63px;
 }
 
@@ -6,24 +6,22 @@
   width: 1920px;
   height: 186px;
   background-color: #EBD96B;
+  
 }
 
 
-
-.label {
-  padding-top: 70px;
-  padding-left: 171px;
-  padding-right: 171px;
+.label-1 {
+  display: flex;
+  padding-top: 64px;
+  width: 1600;
 }
 
-.label img {
-  padding-left: 63px;
+.label-1 img {
+  padding-left: 121px;
 }
 
-
-.content-slide-1 {
-  margin-top: 61px;
-  margin-left: 170px;
+.content-slide-1{
+  margin-top: 20px;
 }
 
 .content-slide-1 p {
@@ -36,6 +34,7 @@
   letter-spacing: 2.88px;
   position: relative;
   z-index: 200;
+
 }
 
 .content-slide-1 img {
@@ -43,6 +42,6 @@
   z-index: 100;
   width: 186px;
   height: 34.935px;
-  bottom:30px;
-  left:260px;
+  bottom: 30px;
+  left: 260px;
 }
