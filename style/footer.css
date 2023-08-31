@@ -1,7 +1,7 @@
 .container-footer {
   font-family: 'Popins', sans-serif;
   background-color: #000;
-  
+  width: auto;
   height: 545px;
   display: flex;
 }
