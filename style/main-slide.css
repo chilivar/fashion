@@ -1,7 +1,7 @@
 .main-slide {
     margin-top: 133px;
     margin-left: 100px;
-    width: 1280px;
+    width: auto;
 }
 
 .text-slide {
@@ -87,3 +87,19 @@
     width: 900px;
     height: 684px;
 }
+
+@media screen and (max-width: 1500px){
+    .main-slide{
+        margin-left: 50px;
+
+    }
+    .rectangle{
+        bottom: 250px;
+    }
+}
+
+
+
+
+    
+

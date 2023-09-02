@@ -12,3 +12,9 @@
 .label-1 img {
   margin-left: 121px;
 }
+
+@media  screen and (max-width:1500px) {
+  .label-1 img{
+    margin-left: 70px;
+  }
+}
